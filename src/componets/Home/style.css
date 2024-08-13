@@ -1,0 +1,20 @@
+.cutom-cl-bg-img {
+  background-image: url('public/images/IMG202408091820181.jpg');
+  background-size: cover;
+}
+/* @media (max-width: 600px) {
+  .cutom-cl-bg-img{
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: -600px;
+    
+  }
+  
+  
+ 
+}
+@media (max-width: 480px) {
+  .cutom-cl-hm-div{
+    padding-top: -200px !important;
+    }
+} */

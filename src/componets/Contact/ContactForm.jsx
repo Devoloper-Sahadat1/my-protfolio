@@ -35,7 +35,7 @@ function ContactForm() {
       <div className="lg:flex lg:flex-row-reverse ">
       <div className="basis-2/4  flex items-center ">
           
-          <img className='rounded-[40px] w-[80%] h-[440px] mx-auto ' src="public/images/IMG20240809181924-removebg-preview (1).png" alt="" />
+          <img className='rounded-[40px] w-[80%] h-[440px] mx-auto ' src=".public/images/IMG20240809181924-removebg-preview (1).png" alt="" />
         </div>
         <div className="w-[90%] lg:basis-1/2 mx-auto bg-white p-8 rounded-lg shadow-md mt-6">
           <h2 className="text-2xl font-bold mb-6 text-center">Contact Us</h2>

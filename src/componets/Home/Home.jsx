@@ -9,7 +9,7 @@ import Login from '../Login/Login';
 const Home = () => {
   return (
     <div>
-      <div className="w-[100%]  h-screen bg-[url('public/images/IMG202408091820181.jpg')] bg-cover  bg-right sm:bg-cover">
+      <div className="w-[100%]  h-screen bg-[url('.public/images/IMG202408091820181.jpg')] bg-cover  bg-right sm:bg-cover">
        
         <div className="mx-1 lg:mx-4 pt-52 custom-cl-hm-div ">
           <p className=" tracking-[.25em] mb-5">FREELANCE DIGITAL DESIGER</p>
